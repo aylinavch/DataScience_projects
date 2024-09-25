@@ -2,13 +2,13 @@
 
 This repository have some data science projects in order to practice and polish my skills. I hope it could be useful for someone (and me) somehow 😃
 
-## Predictive Modeling
+## Forecast customer churn
 
-_Dataset:_ [Customer Purchasing Behaviors](https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors)
+_Dataset:_ [Bank Customer Churn](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
 _Task:_ Build a predictive model using a provided dataset to forecast customer churn. Explain the steps, feature selection, and model performance evaluation (accuracy, precision, recall).
 
-_Skills:_ Python/R, Machine Learning (logistic regression, decision trees), data cleaning, feature engineering.
+_Skills:_ Python, Machine Learning, data cleaning, feature engineering.
 
 
 ## Time Series Analysis
